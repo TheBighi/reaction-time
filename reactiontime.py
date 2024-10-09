@@ -7,8 +7,8 @@ import time
 color1 = (208, 36, 52)
 color2 = (80, 220, 108) 
 
-pixel_x = 1596
-pixel_y = 276
+pixel_x = 1596 # this depends on your resolution/monitor
+pixel_y = 276 # this depends on your resolution/monitor
 
 tolerance = 10
 
